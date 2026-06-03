@@ -105,9 +105,18 @@ Robotic Manipulation
 
 ---
 
-## Contributors
-- **Rosendo De Los Rios** - Perception pipeline, integration, testing & optimization
-- **Jordan Palafox** - Initial ROS2 setup & xArm control framework
+## Contributors & Team
+
+| Name | Matrícula | Role |
+|------|-----------|------|
+| **Rosendo De Los Rios Moreno** | A01198515 | Perception pipeline, integration, testing & optimization |
+| **Jesús García** | A01369587 | System integration & validation |
+| **Víctor Meneses** | A01384002 | Control framework & real-time processing |
+| **Rubén Hilario** | - | Hardware setup & calibration |
+| **Juan José Jauregui** | - | Software architecture & deployment |
+| **Jordan Palafox** | - | ROS2 setup & xArm control framework |
+
+**Team**: Tec de Monterrey - School of Engineering
 
 ---
 
