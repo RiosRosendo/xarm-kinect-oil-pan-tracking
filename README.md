@@ -112,11 +112,13 @@ Robotic Manipulation
 | **Rosendo De Los Rios Moreno** | A01198515 | Perception pipeline, integration, testing & optimization |
 | **Jesús García** | A01369587 | System integration & validation |
 | **Víctor Meneses** | A01384002 | Control framework & real-time processing |
-| **Rubén Hilario** | - | Hardware setup & calibration |
-| **Juan José Jauregui** | - | Software architecture & deployment |
-| **Jordan Palafox** | - | ROS2 setup & xArm control framework |
+| **Rubén Hilario** | A00835860 | Hardware setup & calibration |
+| **Juan José Jauregui** | A00836722 | Software architecture & deployment |
+| **Jordan Palafox** | A00835705 | ROS2 setup & xArm control framework |
 
-**Team**: Tec de Monterrey - School of Engineering
+**Team**: Departamento de Ingeniería Robótica y Sistemas Digitales, Tecnológico de Monterrey
+
+**Contact**: {A01198515, A01369587, A01384002, A00835860, A00836722, A00835705}@tec.mx
 
 ---
 
